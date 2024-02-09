@@ -36,7 +36,7 @@ Identify the geospatial columns in your data. You may have addresses or latitude
    
     _(FYI there is a file in this repo called `.gitignore` that will prevent `.env` from being tracked by git so you don't push your census key on accident._
 
-2. Run the notebooks.
+2. Run the notebooks. If you're unfamiliar with this setup, see https://github.com/dmil/jupyter-quickstart/
 
 ## Note about large files
 
