@@ -28,7 +28,7 @@ Identify the geospatial columns in your data. You may have addresses or latitude
 
 ### Part 3: Write up your findings
 
-1. In a new google doc, summarize what you've found so far. Think of this as a short memo of what you've done or the progress you've made towards pitching a story on this topic or using this dataset. You don't need to show all the charts, just the one you found most interesting. What questions do you have that you'd like to dig more into? Do you think you've got an idea for a story angle? Write it informally as a memo to Dhrumil (your editor). 
+1. In a new google doc, summarize what you've found so far. Think of this as a short memo of what you've done or the progress you've made towards pitching a story on this topic or using this dataset. You don't need to show all the charts, just the one you found most interesting. What questions do you have that you'd like to dig more into? Do you think you've got an idea for a story angle? Write it informally as a memo to Dhrumil and Aishi (your editors). 
 
 ## Usage
 
