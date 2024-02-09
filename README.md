@@ -22,9 +22,9 @@ Identify the geospatial columns in your data. You may have addresses or latitude
 
 ### Part 2: Exploratory Data Analysis
 
-1. In the `distributions.ipynb` notebook, do some basic exploratory data analysis on your data in one dimension. Here you will explore the **distributions** of your data (histograms, boxplots, dotplots, etc).
+1. In the `distributions.ipynb` notebook, do some basic exploratory data analysis on **your dataset** in one dimension. Here you will explore the **distributions** of your data (histograms, boxplots, dotplots, etc).
 
-2. In the `scatterplots.ipynb` notebook, do some basic exploratory data analysis on your data, but this time, merge in some census variables you're interested in. 
+2. In the `scatterplots.ipynb` notebook, do some basic exploratory data analysis on your data, but this time, merge in some census variables you're interested in and make some **scatterplots** with variables from **your dataset** as the Y and variables from the **census data** as the X. 
 
 ### Part 3: Write up your findings
 
