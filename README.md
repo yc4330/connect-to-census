@@ -6,6 +6,8 @@ In this assignment, you will connect your data to census data and do a bit of ba
 
 Identify the geospatial columns in your data. You may have addresses or latitude and longitude. In this assignment you will 
 
+### Part 1: Geocoding your data and joining it with Census data
+
 1. In the `connect-to-census.ipynb` notebook, add code to:
 
     a. download your data
@@ -18,10 +20,15 @@ Identify the geospatial columns in your data. You may have addresses or latitude
 
 2. In `merge-with-census.ipynb` notebook, download some census data using `tidycensus` and merge it with your data.
 
-3. In the `1d-eda.ipynb` notebook, do some basic exploratory data analysis on your data in one dimension. Here you will explore the **distributions** of your data (histograms, boxplots, dotplots, etc).
+### Part 2: Exploratory Data Analysis
 
-4. In the `2d-eda.ipynb` notebook, do some basic exploratory data analysis on your data, but this time, merge in some census variables you're interested in. 
+1. In the `distributions.ipynb` notebook, do some basic exploratory data analysis on your data in one dimension. Here you will explore the **distributions** of your data (histograms, boxplots, dotplots, etc).
 
+2. In the `scatterplots.ipynb` notebook, do some basic exploratory data analysis on your data, but this time, merge in some census variables you're interested in. 
+
+### Part 3: Write up your findings
+
+1. In a new google doc, summarize what you've found so far. Think of this as a short memo of what you've done or the progress you've made towards pitching a story on this topic or using this dataset. You don't need to show all the charts, just the one you found most interesting. What questions do you have that you'd like to dig more into? Do you think you've got an idea for a story angle? Write it informally as a memo to Dhrumil (your editor). 
 
 ## Usage
 
